@@ -3,3 +3,5 @@ Rencana Baru
 - Interview
 - Pulll
 - Pulang
+- Kosongin Rumah
+- Belajar Python
