@@ -5,3 +5,4 @@ Rencana Baru
 - Pulang
 - Kosongin Rumah
 - Belajar Python
+- Nambah Pekerjaan
