@@ -2,3 +2,5 @@
 - Membuat Web Pribadi
 - Bekerja Jadi Programmer
 - Membuat AI Yang Bagus
+- Belajar JavaScript
+- Belajar Pyithon
